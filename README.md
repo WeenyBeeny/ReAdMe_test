@@ -7,12 +7,14 @@
 <br><br>
 #### 잘 하고 있군요.
 <br>
+
 ## 내 친구들 입니다.
+
 - 아메리카노노노
 - 헤이즐럿럿럿럿
 - 카페모카카카카
 
-[바다를 갈라요] (https://github.com/sonmose)
+[바다를 갈라요](https://github.com/sonmose)
 
 ```
   let myName="이준형";
